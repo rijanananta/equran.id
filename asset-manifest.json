@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/equran.id/static/css/main.e6c13ad2.css",
+    "main.js": "/equran.id/static/js/main.af3e7da5.js",
+    "static/js/453.bf18a76a.chunk.js": "/equran.id/static/js/453.bf18a76a.chunk.js",
+    "index.html": "/equran.id/index.html",
+    "main.e6c13ad2.css.map": "/equran.id/static/css/main.e6c13ad2.css.map",
+    "main.af3e7da5.js.map": "/equran.id/static/js/main.af3e7da5.js.map",
+    "453.bf18a76a.chunk.js.map": "/equran.id/static/js/453.bf18a76a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.af3e7da5.js"
+  ]
+}
